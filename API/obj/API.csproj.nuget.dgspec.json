@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj": {}
+    "c:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj": {
+    "c:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj",
+        "projectUniqueName": "c:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj",
+        "projectPath": "c:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Lordd\\.nuget\\packages\\",
-        "outputPath": "C:\\Prog\\Projects\\SHOP\\shop\\api\\obj\\",
+        "outputPath": "c:\\Prog\\Projects\\SHOP\\shop\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lordd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-preview.7.20365.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
