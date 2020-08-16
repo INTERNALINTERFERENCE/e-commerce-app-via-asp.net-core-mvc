@@ -8,6 +8,10 @@ namespace API.Controllers
     {
         [HttpGet]
         public string GetProducts()        
-            => "this will be a list of products";        
+            => "this will be a list of products";
+
+        [HttpGet("{id}")]
+        public string GetProduct(int id)
+            => "single product";        
     }
 }

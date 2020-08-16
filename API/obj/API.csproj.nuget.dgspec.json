@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj": {}
+    "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj": {
+    "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj",
+        "projectUniqueName": "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj",
+        "projectPath": "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Lordd\\.nuget\\packages\\",
-        "outputPath": "C:\\Prog\\Projects\\SHOP\\shop\\API\\obj\\",
+        "outputPath": "C:\\Prog\\Projects\\SHOP\\shop\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lordd\\AppData\\Roaming\\NuGet\\NuGet.Config",

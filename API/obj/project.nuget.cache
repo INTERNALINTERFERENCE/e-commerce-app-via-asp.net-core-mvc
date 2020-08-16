@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D/GmSNa7uo6UlCRvztaGmoLzUhbQEwP5sg2ZuBi6CA/sPuqKuQPX0a6J8NzWrQnfyLs5uZVg7SSezYZB8tctpA==",
+  "dgSpecHash": "gF//dKKoD0GbDve5RKL6H5drNotxkqtWro5zHaPVOGj6XRhRYm1f5U7V0Ed1aCByAM18iwZ6HMDxRT1vIPUB1Q==",
   "success": true,
-  "projectFilePath": "C:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj",
+  "projectFilePath": "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
