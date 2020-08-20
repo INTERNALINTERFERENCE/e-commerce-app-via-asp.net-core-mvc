@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj": {}
+    "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj": {}
   },
   "projects": {
-    "c:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj": {
+    "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj",
+        "projectUniqueName": "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Prog\\Projects\\SHOP\\shop\\API\\API.csproj",
+        "projectPath": "C:\\Prog\\Projects\\SHOP\\shop\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Lordd\\.nuget\\packages\\",
-        "outputPath": "c:\\Prog\\Projects\\SHOP\\shop\\API\\obj\\",
+        "outputPath": "C:\\Prog\\Projects\\SHOP\\shop\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lordd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,7 +41,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0-preview.7.20365.15, )"
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.7, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
